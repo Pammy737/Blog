@@ -60,6 +60,9 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
 * Database
     * SQLAlchemy
     * SQLite
+* Test
+    * pytest
+    * [Selenium](https://github.com/SeleniumHQ/selenium)
 
 
 * Function
@@ -75,6 +78,13 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
     * able to leave comments with a gravatar created for the user
 
 
+## Upgradable
+ * password
+   * change password / forgot password function
+ * admin 
+   * create a table for admins in database, allow users to apply for admin
+ * tests
+   * CI (Github actions / Travis CI)
 
 
 ## Notes
