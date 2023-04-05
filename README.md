@@ -117,7 +117,7 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
 
                   ``` redirect(next)```
   * without [login_required](https://flask-login.readthedocs.io/en/latest/_modules/flask_login/utils/#login_required)
-        * Solution - send next parameter through routes, check [show_post function](https://github.com/Pammy737/The_Blog/blob/main/main.py)
+    *  Solution - send next parameter through routes, check [show_post function](https://github.com/Pammy737/The_Blog/blob/main/main.py)
 
 
     
