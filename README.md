@@ -62,7 +62,7 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
     * SQLite
 * Test
     * pytest
-    * [Selenium](https://github.com/SeleniumHQ/selenium)
+    * Selenium
 
 
 * Function
