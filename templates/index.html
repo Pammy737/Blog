@@ -34,7 +34,7 @@
                         <a href="#">{{post.author.name}}</a>
                         on {{post.date}}
 
-                        {% if current_user.email == "admin@gmail.com": %}
+                        {% if current_user.email == "admin@gmail.com" or current_user.email == "test000@gmail.com": %}
                             <a href="{{url_for('delete_post', post_id=post.id) }}">✘</a>
                         {% endif %}
                     </p>
@@ -44,7 +44,7 @@
 
 
             <!-- New Post -->
-            {% if current_user.email == "admin@gmail.com":  %}
+            {% if current_user.email == "admin@gmail.com" or current_user.email == "test000@gmail.com":  %}
                 <div class="clearfix">
                     <a class="btn btn-primary float-right" href="{{url_for('add_new_post')}}">Create New Post</a>
                 </div>
