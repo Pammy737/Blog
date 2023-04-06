@@ -50,13 +50,14 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
 ## Techniques & Tools
 * Frontend: starting code based on [blog-project](https://github.com/angelabauer/Flask-Blog-Project) and the theme [clean_blog](https://startbootstrap.com/theme/clean-blog)
  
-* Backend: Flask, SQLAlchemy, SQLite 
-  * Flask
-    * flask-login (session..)
-    * flask-ckeditor
-    * flask-Bootstrap
-    * flask-WTF / WTforms
-    * flask-gravatar
+* Backend: Python, Flask, SQLAlchemy, SQLite 
+  * Python 3.9
+   * Flask
+     * flask-login (session..)
+     * flask-ckeditor
+     * flask-Bootstrap
+     * flask-WTF / WTforms
+     * flask-gravatar
 * Database
     * SQLAlchemy
     * SQLite
