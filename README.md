@@ -3,7 +3,15 @@
 A simple blog that allows admin to create, edit, and delete posts ; and enable users to comment on posts after logging in.
 
 
-## Images
+## Table of Contents
+* [Demonstration]()
+* [How to use]()
+* [Techniques & Tools]()
+* [Upcoming Features]()
+* [Notes]()
+
+## Demonstration
+
 * User not logged in
 
   * if user attempts to enter pages with  __login_required__ decorator
@@ -45,7 +53,24 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
   * enter_register_data page -> login page
     ![registerlog](https://github.com/Pammy737/The_Blog/blob/main/readme_screenshots/register(nonuser).png)
 
+## How to use
+**Visitor**
+As a visitor, you may:
+* check all the blog posts and comments
+* register as a blog member
 
+**Blog Member**
+As a blog member, you may:
+* check all the blog posts and comments
+* log in to your account
+  * leave comments on posts
+
+**Admin**
+As an admin, you may:
+* check all the blog posts and comments
+* log in to your account
+  * leave comments on posts
+  * create, edit, and delete all the blog posts
 
 ## Techniques & Tools
 * Frontend: starting code based on [blog-project](https://github.com/angelabauer/Flask-Blog-Project) and the theme [clean_blog](https://startbootstrap.com/theme/clean-blog)
