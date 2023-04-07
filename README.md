@@ -53,6 +53,19 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
   * enter register data page -> login page
     ![registerlog](https://github.com/Pammy737/The_Blog/blob/main/readme_screenshots/register(nonuser).png)
 
+
+* Function
+  * login
+    * hashed & salted password
+    * requires to enter register data if not yet a user
+  * admin (the first user registered)
+    * create / edit / delete posts
+    * decorator
+  * user 
+    * required to login for specific pages
+    * can only view posts 
+    * able to leave comments with a gravatar created for the user
+
 ## How to use
 ### Visitor
 
@@ -92,19 +105,6 @@ As an admin, you may:
 * Test
     * pytest
     * Selenium
-
-
-* Function
-  * login
-    * hashed & salted password
-    * requires to enter register data if not yet a user
-  * admin (the first user registered)
-    * create / edit / delete posts
-    * decorator
-  * user 
-    * required to login for specific pages
-    * can only view posts 
-    * able to leave comments with a gravatar created for the user
 
 
 ## Upcoming Features
