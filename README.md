@@ -97,7 +97,7 @@ As an admin, you may:
 * Function
   * login
     * hashed & salted password
-    * requires to enter_register_data if not yet a user
+    * requires to enter register data if not yet a user
   * admin (the first user registered)
     * create / edit / delete posts
     * decorator
