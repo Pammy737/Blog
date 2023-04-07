@@ -4,11 +4,11 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
 
 
 ## Table of Contents
-* [Demonstration]()
-* [How to use]()
-* [Techniques & Tools]()
-* [Upcoming Features]()
-* [Notes]()
+* [Demonstration](https://github.com/Pammy737/Blog_new/blob/main/README.md#demonstration)
+* [How to use](https://github.com/Pammy737/Blog_new/blob/main/README.md#how-to-use)
+* [Techniques & Tools](https://github.com/Pammy737/Blog_new/blob/main/README.md#techniques--tools)
+* [Upcoming Features](https://github.com/Pammy737/Blog_new/blob/main/README.md#upgradable)
+* [Notes](https://github.com/Pammy737/Blog_new/blob/main/README.md#notes)
 
 ## Demonstration
 
@@ -104,7 +104,7 @@ As an admin, you may:
     * able to leave comments with a gravatar created for the user
 
 
-## Upgradable
+## Upcoming Features
  * password
    * change password / forgot password function
  * admin 
