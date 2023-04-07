@@ -50,7 +50,7 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
       
 * if email isn't registered
   
-  * enter_register_data page -> login page
+  * enter register data page -> login page
     ![registerlog](https://github.com/Pammy737/The_Blog/blob/main/readme_screenshots/register(nonuser).png)
 
 ## How to use
