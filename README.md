@@ -54,20 +54,20 @@ A simple blog that allows admin to create, edit, and delete posts ; and enable u
     ![registerlog](https://github.com/Pammy737/The_Blog/blob/main/readme_screenshots/register(nonuser).png)
 
 ## How to use
-**Visitor**
+### Visitor
 
 As a visitor, you may:
 * check all the blog posts and comments
 * register as a blog member
 
-**Blog Member**
+### Blog Member
 
 As a blog member, you may:
 * check all the blog posts and comments
 * log in to your account
   * leave comments on posts
 
-**Admin**
+### Admin
 
 As an admin, you may:
 * check all the blog posts and comments
