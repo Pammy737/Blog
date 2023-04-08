@@ -89,11 +89,15 @@ As an admin, you may:
   * create, edit, and delete all the blog posts
 
 ## Techniques & Tools
+* Environment
+  * poetry(1.4.1) (check [Notes](https://github.com/Pammy737/Blog_new/blob/main/README.md#notes))
+  * python-dotenv(1.0.0)
+
 * Frontend: starting code based on [blog-project](https://github.com/angelabauer/Flask-Blog-Project) and the theme [clean_blog](https://startbootstrap.com/theme/clean-blog)
  
 * Backend: Python, Flask, SQLAlchemy, SQLite 
-  * Python 3.9
-   * Flask
+  * python (3.9)
+   * flask (2.2.3) 
      * flask-login (session..)
      * flask-ckeditor
      * flask-Bootstrap
@@ -117,6 +121,8 @@ As an admin, you may:
 
 
 ## Notes
+
+* couldn't find Poetry after installing, try ```export PATH="$HOME/.local/bin:$PATH”```
 
 * ```next``` parameter
   * ex - about page
