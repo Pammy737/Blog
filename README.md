@@ -1,6 +1,6 @@
 # The Blog
 
-A simple blog that allows admin to create, edit, and delete posts ; and enable users to comment on posts after logging in.
+A simple blog that allows the admin to create, edit, and delete posts; and enables users to comment on posts after logging in.
 
 
 ## Table of Contents
